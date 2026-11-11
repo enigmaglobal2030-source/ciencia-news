@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://enigmaglobal2030-source.github.io/ciencia-news/sitemap.xml
