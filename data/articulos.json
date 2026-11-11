@@ -1,7 +1,7 @@
 [
   {
     "id": "colesterol-una-dosis-olvidar-pastilla",
-    "publicado": false,
+    "publicado": true,
     "titulo": "El problema del colesterol no es la pastilla, es olvidarla: el ensayo en personas que apenas empieza",
     "bajada": "Una sola dosis podría reemplazar el tratamiento de por vida. Lo que se sabe hoy, lo que no, y por qué el desenlace todavía no existe.",
     "categoria": "Salud",
@@ -44,6 +44,11 @@
       "Laffin y colaboradores, New England Journal of Medicine, estudio con CTX310 dirigido a ANGPTL3.",
       "CNN, reportaje sobre el estudio de la Cleveland Clinic y la adherencia a los tratamientos, agosto de 2026."
     ],
-    "etiquetas": ["Colesterol", "CRISPR", "Salud cardiovascular", "Biotecnología"]
+    "etiquetas": [
+      "Colesterol",
+      "CRISPR",
+      "Salud cardiovascular",
+      "Biotecnología"
+    ]
   }
 ]
