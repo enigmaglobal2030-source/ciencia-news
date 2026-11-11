@@ -68,7 +68,14 @@ async function iniciar() {
     art.appendChild(fig);
   }
 
-  (a.cuerpo || []).forEach((p) => art.appendChild(texto("p", "parrafo", p)));
+  (a.cuerpo || []).forEach((p) => {
+    // Un elemento que empieza con "## " se pinta como subtítulo de sección.
+    if (p.startsWith("## ")) {
+      art.appendChild(texto("h2", "", p.slice(3)));
+    } else {
+      art.appendChild(texto("p", "parrafo", p));
+    }
+  });
 
   if (a.fuentes && a.fuentes.length) {
     art.appendChild(texto("h2", "", "Fuentes"));

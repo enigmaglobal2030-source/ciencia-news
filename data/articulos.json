@@ -1,22 +1,49 @@
 [
   {
-    "id": "ejemplo-borrador",
+    "id": "colesterol-una-dosis-olvidar-pastilla",
     "publicado": false,
-    "titulo": "Título del artículo (borrador de ejemplo, no se muestra en la web)",
-    "bajada": "Una o dos frases que resumen la noticia.",
-    "categoria": "Espacio",
+    "titulo": "El problema del colesterol no es la pastilla, es olvidarla: el ensayo en personas que apenas empieza",
+    "bajada": "Una sola dosis podría reemplazar el tratamiento de por vida. Lo que se sabe hoy, lo que no, y por qué el desenlace todavía no existe.",
+    "categoria": "Salud",
     "fecha": "2026-11-11",
-    "lectura": 4,
+    "lectura": 6,
     "autor": "Redacción Ciencia News",
     "imagen": "",
     "imagen_alt": "",
     "cuerpo": [
-      "Primer párrafo del artículo.",
-      "Segundo párrafo del artículo."
+      "Imagina a una persona con colesterol alto a la que su médico le receta un tratamiento. Durante el primer mes lo toma sin falta. Al tercero, el frasco ya queda olvidado en el botiquín, y la inyección se pospone una semana, luego otra.",
+      "Esa escena se repite más de lo que parece. Investigadores citados por CNN calculan que solo la mitad de quienes toman medicamentos para el colesterol lo hacen más del 80 % de las veces, y que entre 33 % y 50 % de quienes empiezan una estatina la dejan dentro del primer año.",
+      "Por eso, la pregunta que casi nadie se hace es la más importante: ¿y si el problema no fuera la molécula, sino la rutina? Esa es la idea que sostiene la apuesta de una empresa de Alameda, California, llamada Scribe Therapeutics.",
+      "## Un tratamiento que hay que tomar para siempre",
+      "Las estatinas se toman a diario. Los inhibidores de PCSK9, que se administran por inyección, se aplican cada dos semanas o cada seis meses, según el producto. La frecuencia no es un detalle menor: cada dosis es una nueva oportunidad para dejar el tratamiento.",
+      "## La molécula que intenta apagar un gen",
+      "El blanco es el gen PCSK9. En el hígado, la proteína que fabrica destruye los receptores que retiran el colesterol de la sangre. Si el gen se apaga, quedan más receptores trabajando.",
+      "El candidato se llama STX-1150. No corta el ADN: coloca marcas químicas que frenan la lectura del gen, y llega al hígado dentro de una nanopartícula de grasa. La idea es que el efecto dure años con una sola aplicación, sin cambiar la secuencia genética.",
+      "## Lo que dicen los datos en primates",
+      "Según la empresa, en primates no humanos la dosis más baja redujo el colesterol malo más de la mitad durante más de 22 meses, y el efecto seguía. En el congreso de la American Heart Association de noviembre de 2026, la compañía habló de al menos dos años.",
+      "Son datos de animales presentados por la propia empresa. No encontramos esos resultados publicados en una revista revisada por otros científicos, y conviene leerlos como una promesa de laboratorio, no como una prueba en personas.",
+      "## Otra vía, ya probada en personas",
+      "Un equipo de la Cleveland Clinic siguió una ruta distinta. Usó CRISPR para apagar el gen ANGPTL3 con un cambio permanente en el ADN. En 15 personas, el colesterol malo bajó cerca de 50 % a los dos meses con la dosis más alta, y la reducción seguía al año.",
+      "El estudio se publicó en el New England Journal of Medicine, y su tamaño es pequeño. Sirve como referencia de lo que ya se ha visto en personas, aunque la técnica sea distinta a la de Scribe: en un caso el ADN cambia para siempre, en el otro no.",
+      "La idea de la Cleveland Clinic nació de una rareza genética. Según los cardiólogos que la estudiaron, alrededor de 1 de cada 250 personas en Estados Unidos tiene una variante natural del gen ANGPTL3 que lo deja apagado, y esas personas viven con niveles muy bajos de colesterol y triglicéridos. El equipo quiso copiar ese efecto en pacientes que no lo tienen.",
+      "## El desenlace: el ensayo apenas empieza",
+      "¿Se acaba entonces la era de las pastillas? Todavía no. El ensayo de fase 1 de STX-1150 comenzó a mediados de 2026 en Australia y planea incluir hasta 64 adultos con colesterol elevado y riesgo cardiovascular aumentado. Cada participante se sigue durante un año.",
+      "Su tarea principal es comprobar seguridad y tolerancia. La empresa espera publicar los primeros datos sobre el colesterol en la primera mitad de 2027.",
+      "Para que la idea funcione como promete, tendrían que cumplirse tres cosas a la vez: que el colesterol baje lo suficiente en personas, que la reducción dure más de lo que dura una pastilla y que las marcas químicas no alteren otros genes. Los datos de primates apuntan en la dirección correcta en los dos primeros puntos. El tercero todavía no tiene respuesta.",
+      "Hay además una pregunta práctica que el ensayo no responde: el precio. La empresa no ha anunciado cuánto costaría un tratamiento así, y las terapias génicas actuales suelen tener precios muy altos. Si una sola dosis cuesta lo que hoy cuestan muchos tratamientos génicos, la ventaja de la comodidad podría no llegar a quienes más la necesitan.",
+      "Así que la respuesta a la pregunta del inicio, si una persona que olvida su pastilla podrá dejar de preocuparse por ella, todavía no existe. Lo que sí existe es una prueba en curso para averiguarlo.",
+      "## Rigor científico",
+      "El candidato está en su primer ensayo en personas, de fase 1. Hasta la fecha de esta nota no hay resultados clínicos publicados. La duración de meses o años proviene de primates y de presentaciones de la empresa. Una preocupación conocida en estas técnicas es que las marcas químicas afecten a genes que no deberían tocar, y eso es lo que la fase 1 debe vigilar.",
+      "¿Cambiarías una rutina diaria por una sola dosis, aunque todavía no se conozcan sus efectos a largo plazo?"
     ],
     "fuentes": [
-      "Nombre de la revista o institución, título del estudio, año."
+      "Scribe Therapeutics, comunicado sobre la autorización de la TGA australiana, 21 de mayo de 2026.",
+      "Scribe Therapeutics, resultados del segundo trimestre de 2026, 2 de septiembre de 2026.",
+      "Scribe Therapeutics, presentación de datos en el congreso de la American Heart Association, noviembre de 2026.",
+      "Scribe Therapeutics, datos preclínicos presentados en el congreso de la European Atherosclerosis Society, 2026.",
+      "Laffin y colaboradores, New England Journal of Medicine, estudio con CTX310 dirigido a ANGPTL3.",
+      "CNN, reportaje sobre el estudio de la Cleveland Clinic y la adherencia a los tratamientos, agosto de 2026."
     ],
-    "etiquetas": ["#CienciaNews", "#Espacio"]
+    "etiquetas": ["Colesterol", "CRISPR", "Salud cardiovascular", "Biotecnología"]
   }
 ]
