@@ -1,0 +1,22 @@
+[
+  {
+    "id": "ejemplo-borrador",
+    "publicado": false,
+    "titulo": "Título del artículo (borrador de ejemplo, no se muestra en la web)",
+    "bajada": "Una o dos frases que resumen la noticia.",
+    "categoria": "Espacio",
+    "fecha": "2026-11-11",
+    "lectura": 4,
+    "autor": "Redacción Ciencia News",
+    "imagen": "",
+    "imagen_alt": "",
+    "cuerpo": [
+      "Primer párrafo del artículo.",
+      "Segundo párrafo del artículo."
+    ],
+    "fuentes": [
+      "Nombre de la revista o institución, título del estudio, año."
+    ],
+    "etiquetas": ["#CienciaNews", "#Espacio"]
+  }
+]

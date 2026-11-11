@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ciencia News — La ciencia, en contexto</title>
+  <meta name="description" content="Noticias y explicaciones de ciencia en español: espacio, salud, tecnología, medioambiente y física.">
+  <meta name="theme-color" content="#101b3d">
+  <link rel="stylesheet" href="css/estilo.css">
+</head>
+<body>
+  <header class="barra">
+    <a class="marca" href="index.html">Ciencia News</a>
+    <nav aria-label="Principal">
+      <a href="index.html#ultimas">Últimas noticias</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="portada">
+      <p class="kicker">La ciencia, en contexto</p>
+      <h1>Lo que pasa en el mundo de la ciencia, explicado con rigor.</h1>
+    </section>
+
+    <nav class="filtros" id="filtros" aria-label="Categorías"></nav>
+
+    <section id="ultimas" class="rejilla" aria-live="polite"></section>
+    <p id="vacio" class="vacio" hidden>Todavía no hay artículos publicados.</p>
+  </main>
+
+  <footer>
+    <p>&copy; <span id="anio"></span> Ciencia News</p>
+  </footer>
+
+  <script src="js/listado.js"></script>
+</body>
+</html>
