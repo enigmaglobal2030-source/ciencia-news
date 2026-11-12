@@ -34,7 +34,7 @@ img/                Imágenes de los artículos
   "imagen_alt": "Descripción de la imagen",
   "cuerpo": ["Párrafo 1", "Párrafo 2"],
   "fuentes": ["Revista o institución, título del estudio, año."],
-  "etiquetas": ["#CienciaNews", "#Espacio"]
+  "etiquetas": ["Espacio", "Exoplanetas"]
 }
 ```
 
