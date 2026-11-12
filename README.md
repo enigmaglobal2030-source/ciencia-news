@@ -1,4 +1,4 @@
-# Ciencia News
+# Enigma Ciencia
 
 Sitio estático en español. No necesita servidor ni base de datos: los artículos viven en `data/articulos.json` y sus imágenes en `img/`.
 
@@ -29,7 +29,7 @@ img/                Imágenes de los artículos
   "categoria": "Espacio",
   "fecha": "2026-11-11",
   "lectura": 4,
-  "autor": "Redacción Ciencia News",
+  "autor": "Redacción Enigma Ciencia",
   "imagen": "img/exoplanetas-agua.webp",
   "imagen_alt": "Descripción de la imagen",
   "cuerpo": ["Párrafo 1", "Párrafo 2"],

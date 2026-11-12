@@ -39,7 +39,7 @@ async function iniciar() {
     return;
   }
 
-  document.title = `${a.titulo} — Ciencia News`;
+  document.title = `${a.titulo} — Enigma Ciencia`;
   const desc = document.querySelector('meta[name="description"]');
   if (desc) desc.content = a.bajada;
 
